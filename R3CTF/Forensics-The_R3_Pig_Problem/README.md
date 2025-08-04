@@ -11,6 +11,3 @@ The message revealed a huge secret, and the fate of the entire human race was no
 
 Recovered a hidden flag from a pcap file using TCP timestamp deltas as a covert timing channel. Applied thresholding and bit-shifting to reconstruct the message.
 
-## Flag
-
-r3ctf{th3-thr33-b0dy-pr0blem-h4d-n0-solution}
